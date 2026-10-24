@@ -1,4 +1,4 @@
-# Plain Craft Launcher破解版
+# Plain Craft Launcher2.99.0破解版
 把一些关于相关法律限制的代码去掉了，但会有提示（懒得找代码），不过忽视就行（：<br/>
 
 
